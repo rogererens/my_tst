@@ -1,2 +1,3 @@
-==THIS IS NOT A DRILL!!==
+THIS IS NOT A DRILL!!
+=====================
 What happens to this?
